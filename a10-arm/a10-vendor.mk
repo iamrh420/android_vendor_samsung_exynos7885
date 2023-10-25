@@ -116,11 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a10-arm/proprietary/vendor/lib/hw/gatekeeper.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos7884B.so \
     vendor/samsung/a10-arm/proprietary/vendor/lib/hw/sensors.universal7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.universal7884B.so \
     vendor/samsung/a10-arm/proprietary/vendor/lib/hw/vendor.samsung.hardware.gnss@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.samsung.hardware.gnss@2.0-impl.so \
-    vendor/samsung/universal7885-common/proprietary/vendor/lib/camera.device@3.2-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.2-impl.so \
-    vendor/samsung/universal7885-common/proprietary/vendor/lib/camera.device@3.3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.3-impl.so \
-    vendor/samsung/universal7885-common/proprietary/vendor/lib/camera.device@3.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.4-impl.so \
-    vendor/samsung/universal7885-common/proprietary/vendor/lib/camera.device@3.5-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.5-impl.so \
-    vendor/samsung/universal7885-common/proprietary/vendor/lib/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@1.0-impl.so \
     vendor/samsung/a10-arm/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
     vendor/samsung/a10-arm/proprietary/vendor/lib/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSEF.quram.so \
     vendor/samsung/universal7885-common/proprietary/vendor/lib/libSamsungPostProcessConvertor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSamsungPostProcessConvertor.so \
